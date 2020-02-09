@@ -1379,3 +1379,525 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.09-19.14.02:715][255]LogSavePackage: Moving '../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Saved/LVL1B8C6E0F3445E589B09896E84463E1DC6.tmp' to '../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Content/Maps/Levels/LVL1.umap'
 [2020.02.09-19.14.02:742][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/LVL1_BuiltData" FILE="../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Content/Maps/Levels/LVL1_BuiltData.uasset" SILENT=true
 [2020.02.09-19.14.02:794][255]LogSavePackage: Moving '../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Saved/LVL1_BuiltData52E78E1548D3A2A51D53A0A7BD71B98B.tmp' to '../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Content/Maps/Levels/LVL1_BuiltData.uasset'
+[2020.02.09-19.14.50:269][638]Cmd: DELETE
+[2020.02.09-19.14.50:269][638]Cmd: ACTOR DELETE
+[2020.02.09-19.14.50:272][638]LogEditorActor: Deleted Actor: Brush
+[2020.02.09-19.14.50:305][638]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.02.09-19.15.13:322][ 15]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.09-19.15.24:476][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone3)
+[2020.02.09-19.15.57:078][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone7)
+[2020.02.09-19.15.57:941][673]Cmd: DELETE
+[2020.02.09-19.15.57:941][673]Cmd: ACTOR DELETE
+[2020.02.09-19.15.57:944][673]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.09-19.15.57:969][673]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.02.09-19.16.00:765][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.16.00:914][850]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-19.16.00:928][850]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.16.00:928][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-19.16.00:928][850]PIE: New page: PIE session: LVL1 (Feb 9, 2020, 9:16:00 AM)
+[2020.02.09-19.16.00:928][850]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_LVL1
+[2020.02.09-19.16.00:935][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006548s)
+[2020.02.09-19.16.00:935][850]LogAIModule: Creating AISystem for world LVL1
+[2020.02.09-19.16.00:935][850]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2020.02.09-19.16.00:935][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/LVL1.LVL1 to /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 (0.007269s)
+[2020.02.09-19.16.00:981][850]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-19.16.00:991][850]LogInit: FAudioDevice initialized.
+[2020.02.09-19.16.01:023][850]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.09-19.16.01:024][850]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2020.02.09-14.16.01
+[2020.02.09-19.16.01:024][850]LogWorld: Bringing up level for play took: 0.000843
+[2020.02.09-19.16.01:037][850]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_LVL1 -0.692
+[2020.02.09-19.16.01:038][850]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.16.27:716][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.16.27:716][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.16.27:753][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-19.16.27:753][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.16.27:778][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.16.27:826][451]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.02.09-19.16.41:477][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.17.22:369][722]LogActorFactory: Actor Factory created Cylinder
+[2020.02.09-19.17.23:597][795]LogActorFactory: Actor Factory created Cylinder
+[2020.02.09-19.17.25:952][932]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.17.52:937][543]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.09-19.18.14:040][804]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.09-19.18.14:854][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.09-19.18.43:769][577]Cmd: TRANSACTION UNDO
+[2020.02.09-19.18.43:769][577]LogEditorTransaction: Undo Scale Actors
+[2020.02.09-19.18.47:988][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2020.02.09-19.19.39:238][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.19.39:277][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.20.01:189][203]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.09-19.20.04:333][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.09-19.20.05:693][468]Cmd: DELETE
+[2020.02.09-19.20.05:693][468]Cmd: ACTOR DELETE
+[2020.02.09-19.20.05:696][468]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.09-19.20.05:725][468]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.02.09-19.20.06:316][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2020.02.09-19.20.06:587][518]Cmd: DELETE
+[2020.02.09-19.20.06:587][518]Cmd: ACTOR DELETE
+[2020.02.09-19.20.06:590][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.09-19.20.06:611][518]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.02.09-19.20.08:809][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.20.12:447][867]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.09-19.20.47:783][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.21.31:272][548]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.09-19.21.48:846][597]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.09-19.21.56:680][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.21.59:780][243]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.09-19.22.01:843][362]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.09-19.22.10:369][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.22.10:486][877]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-19.22.10:500][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.22.10:500][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-19.22.10:500][877]PIE: New page: PIE session: LVL1 (Feb 9, 2020, 9:22:10 AM)
+[2020.02.09-19.22.10:500][877]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_LVL1
+[2020.02.09-19.22.10:516][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015657s)
+[2020.02.09-19.22.10:516][877]LogAIModule: Creating AISystem for world LVL1
+[2020.02.09-19.22.10:517][877]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2020.02.09-19.22.10:517][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/LVL1.LVL1 to /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 (0.016354s)
+[2020.02.09-19.22.10:562][877]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-19.22.10:573][877]LogInit: FAudioDevice initialized.
+[2020.02.09-19.22.10:607][877]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.09-19.22.10:610][877]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2020.02.09-14.22.10
+[2020.02.09-19.22.10:610][877]LogWorld: Bringing up level for play took: 0.001802
+[2020.02.09-19.22.10:624][877]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_LVL1 0.894
+[2020.02.09-19.22.10:624][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.22.34:937][335]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.22.34:938][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.22.34:973][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-19.22.34:974][335]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.22.35:000][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.22.35:050][337]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.09-19.22.44:634][910]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.09-19.23.05:045][126]Cmd: TRANSACTION UNDO
+[2020.02.09-19.23.05:045][126]LogEditorTransaction: Undo Move Actors
+[2020.02.09-19.23.08:301][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.23.40:863][251]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.09-19.23.51:179][865]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.23.55:462][118]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.09-19.24.12:989][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.24.14:919][280]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.09-19.24.35:095][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.25.00:451][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.25.06:563][320]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.25.28:447][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.25.38:036][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.25.43:882][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.25.44:015][542]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-19.25.44:029][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.25.44:029][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-19.25.44:029][542]PIE: New page: PIE session: LVL1 (Feb 9, 2020, 9:25:44 AM)
+[2020.02.09-19.25.44:029][542]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_LVL1
+[2020.02.09-19.25.44:046][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016612s)
+[2020.02.09-19.25.44:046][542]LogAIModule: Creating AISystem for world LVL1
+[2020.02.09-19.25.44:046][542]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2020.02.09-19.25.44:046][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/LVL1.LVL1 to /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 (0.017286s)
+[2020.02.09-19.25.44:093][542]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-19.25.44:103][542]LogInit: FAudioDevice initialized.
+[2020.02.09-19.25.44:138][542]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.09-19.25.44:140][542]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2020.02.09-14.25.44
+[2020.02.09-19.25.44:141][542]LogWorld: Bringing up level for play took: 0.001980
+[2020.02.09-19.25.44:155][542]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_LVL1 0.425
+[2020.02.09-19.25.44:155][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.26.28:431][196]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.26.28:431][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.26.28:467][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-19.26.28:468][196]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.26.28:496][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.26.28:535][198]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.02.09-19.26.31:319][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.26.32:515][433]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.09-19.27.09:505][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.27.09:639][641]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-19.27.09:651][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.27.09:651][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-19.27.09:652][641]PIE: New page: PIE session: LVL1 (Feb 9, 2020, 9:27:09 AM)
+[2020.02.09-19.27.09:652][641]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_LVL1
+[2020.02.09-19.27.09:668][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016024s)
+[2020.02.09-19.27.09:668][641]LogAIModule: Creating AISystem for world LVL1
+[2020.02.09-19.27.09:668][641]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2020.02.09-19.27.09:668][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/LVL1.LVL1 to /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 (0.016656s)
+[2020.02.09-19.27.09:714][641]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-19.27.09:724][641]LogInit: FAudioDevice initialized.
+[2020.02.09-19.27.09:758][641]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.09-19.27.09:761][641]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2020.02.09-14.27.09
+[2020.02.09-19.27.09:761][641]LogWorld: Bringing up level for play took: 0.001961
+[2020.02.09-19.27.09:775][641]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_LVL1 0.045
+[2020.02.09-19.27.09:775][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.27.44:489][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.27.44:489][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.27.44:522][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-19.27.44:523][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.27.44:552][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.27.44:592][724]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.02.09-19.27.46:085][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.27.46:765][820]LogSavePackage: Moving '../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Saved/LVL1D93956444F72BDBB4A06E19338F1315B.tmp' to '../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Content/Maps/Levels/LVL1.umap'
+[2020.02.09-19.27.46:796][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/LVL1_BuiltData" FILE="../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Content/Maps/Levels/LVL1_BuiltData.uasset" SILENT=true
+[2020.02.09-19.27.46:834][820]LogSavePackage: Moving '../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Saved/LVL1_BuiltData9AD2448F4946238BD25B9A91C5F79198.tmp' to '../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Content/Maps/Levels/LVL1_BuiltData.uasset'
+[2020.02.09-19.27.56:209][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.29.18:445][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.29.20:017][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.09-19.29.50:714][618]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.09-19.29.55:745][917]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.30.25:907][726]MapCheck: New page: Map Check
+[2020.02.09-19.30.25:923][726]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.09-19.30.25:923][726]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.09-19.30.26:044][726]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.02.09-19.30.26:053][726]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.02.09-19.30.26:060][726]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.09-19.30.26:060][726]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.09-19.30.26:060][726]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GrayBlock, compiling. 
+[2020.02.09-19.30.26:439][726]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.09-19.30.26:439][726]TextureStreamingBuild: Display: Compiling optional shaders took 0.402 seconds.
+[2020.02.09-19.30.26:442][726]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2020.02.09-19.30.26:456][726]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2020.02.09-19.30.26:480][726]LightingResults: New page: Lighting Build - Feb 9, 2020, 9:30:26 AM
+[2020.02.09-19.30.26:513][726]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.09-19.30.26:568][726]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.09-19.30.26:577][726]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.09-19.30.27:084][726]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.09-19.30.27:084][726]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22184
+[2020.02.09-19.30.30:255][726]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.02.09-19.30.30:255][726]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.09-19.30.30:255][726]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.09-19.30.30:255][726]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.09-19.30.30:255][726]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.09-19.30.30:255][726]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.09-19.30.30:395][726]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.09-19.30.30:395][726]MapCheck: New page: LVL1 - Feb 9, 2020, 9:30:30 AM
+[2020.02.09-19.30.30:396][726]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.09-19.30.30:396][726]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.971ms to complete.
+[2020.02.09-19.30.30:419][726]LogEditorBuildUtils: Build time 0:04
+[2020.02.09-19.30.30:444][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.30.30:545][727]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GrayBlock, compiling. 
+[2020.02.09-19.30.30:554][727]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GrayBlock, compiling. 
+[2020.02.09-19.30.30:559][727]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.09-19.30.30:566][727]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.09-19.30.40:089][172]Job is a success!
+[2020.02.09-19.30.40:146][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.30.40:298][173]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.124s
+[2020.02.09-19.30.40:298][173]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.02.09-19.30.40:298][173]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 4.5Mb (trimmed 1.8Mb due to 0.010000 MinBrickError)
+[2020.02.09-19.30.40:298][173]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.09-19.30.40:298][173]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2020.02.09-19.30.40:298][173]LogVolumetricLightmapImport:          1: 7.8% covering 13.7% of volume
+[2020.02.09-19.30.40:298][173]LogVolumetricLightmapImport:          2: 91.3% covering 2.5% of volume
+[2020.02.09-19.30.41:169][173]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.02.09-19.30.41:169][173]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.02.09-19.30.41:169][173]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.02.09-19.30.41:169][173]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.02.09-19.30.41:169][173]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.02.09-19.30.41:169][173]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.02.09-19.30.41:169][173]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2020.02.09-19.30.41:170][173]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2020.02.09-19.30.41:170][173]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2020.02.09-19.30.41:170][173]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2020.02.09-19.30.41:370][173]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X32)
+[2020.02.09-19.30.41:418][173]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.02.09-19.30.41:418][173]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2020.02.09-19.30.41:443][173]Lightmass on DESKTOP-9M2PM6O: 9.82 sec total, 178 ms importing, 29 ms setup, 2.47 sec photons, 7.10 sec processing, 0 ms extra exporting [156/156 mappings]. Threads: 1:17 min total, 22.3 sec processing.
+[2020.02.09-19.30.41:510][173]LogStaticLightingSystem: Illumination: 15.0 sec (539 ms encoding lightmaps, 244 ms encoding shadowmaps)
+[2020.02.09-19.30.41:510][173]LogStaticLightingSystem: Lightmap texture memory:  6.5 MB (0.0 MB streaming, 6.5 MB non-streaming), 10 textures
+[2020.02.09-19.30.41:510][173]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 3 textures
+[2020.02.09-19.30.42:274][173]DumpUnbuiltLightIteractions
+[2020.02.09-19.30.42:274][173]Lights with unbuilt interactions: 0
+[2020.02.09-19.30.42:274][173]
+[2020.02.09-19.30.42:274][173]Primitives with unbuilt interactions: 0
+[2020.02.09-19.30.42:298][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.30.42:356][174]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.09-19.30.42:356][174]MapCheck: New page: LVL1 - Feb 9, 2020, 9:30:42 AM
+[2020.02.09-19.30.42:357][174]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.767ms to complete.
+[2020.02.09-19.30.58:874][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.30.59:039][171]LogSlate: Window 'Message Log' being destroyed
+[2020.02.09-19.30.59:046][171]LogSlate: Window 'Message Log' being destroyed
+[2020.02.09-19.31.02:819][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.31.18:074][298]Cmd: TRANSACTION UNDO
+[2020.02.09-19.31.18:074][298]LogEditorTransaction: Undo Rotate Actors
+[2020.02.09-19.31.19:554][385]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.09-19.31.20:637][448]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.02.09-19.31.30:114][ 13]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.09-19.31.48:177][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.32.23:831][731]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.09-19.32.37:473][547]Cmd: TRANSACTION UNDO
+[2020.02.09-19.32.37:473][547]LogEditorTransaction: Undo Rotate Actors
+[2020.02.09-19.32.39:169][648]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2020.02.09-19.32.43:169][883]Cmd: TRANSACTION UNDO
+[2020.02.09-19.32.43:169][883]LogEditorTransaction: Undo Rotate Actors
+[2020.02.09-19.32.44:029][934]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.02.09-19.32.55:369][609]Cmd: TRANSACTION UNDO
+[2020.02.09-19.32.55:369][609]LogEditorTransaction: Undo Rotate Actors
+[2020.02.09-19.33.00:998][944]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.02.09-19.33.04:951][179]Cmd: DELETE
+[2020.02.09-19.33.04:951][179]Cmd: ACTOR DELETE
+[2020.02.09-19.33.04:957][179]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2020.02.09-19.33.04:982][179]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.02.09-19.33.06:895][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.33.06:994][300]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-19.33.07:007][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.33.07:007][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-19.33.07:007][300]PIE: New page: PIE session: LVL1 (Feb 9, 2020, 9:33:07 AM)
+[2020.02.09-19.33.07:007][300]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_LVL1
+[2020.02.09-19.33.07:025][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017858s)
+[2020.02.09-19.33.07:026][300]LogAIModule: Creating AISystem for world LVL1
+[2020.02.09-19.33.07:026][300]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2020.02.09-19.33.07:026][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/LVL1.LVL1 to /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 (0.018575s)
+[2020.02.09-19.33.07:070][300]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-19.33.07:080][300]LogInit: FAudioDevice initialized.
+[2020.02.09-19.33.07:111][300]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.09-19.33.07:113][300]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2020.02.09-14.33.07
+[2020.02.09-19.33.07:114][300]LogWorld: Bringing up level for play took: 0.001866
+[2020.02.09-19.33.07:128][300]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_LVL1 -0.602
+[2020.02.09-19.33.07:128][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.33.38:173][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.33.38:173][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.33.38:208][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-19.33.38:208][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.33.38:233][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.33.38:281][164]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.02.09-19.33.40:325][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.33.40:475][295]MapCheck: New page: Map Check
+[2020.02.09-19.33.40:493][295]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.09-19.33.40:493][295]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.09-19.33.40:585][295]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.02.09-19.33.40:592][295]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.02.09-19.33.40:599][295]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.09-19.33.40:599][295]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GrayBlock, compiling. 
+[2020.02.09-19.33.40:976][295]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.09-19.33.40:976][295]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.09-19.33.40:976][295]TextureStreamingBuild: Display: Compiling optional shaders took 0.394 seconds.
+[2020.02.09-19.33.40:979][295]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2020.02.09-19.33.40:992][295]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2020.02.09-19.33.41:015][295]LightingResults: New page: Lighting Build - Feb 9, 2020, 9:33:41 AM
+[2020.02.09-19.33.41:022][295]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.09-19.33.41:025][295]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.09-19.33.41:025][295]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.09-19.33.41:026][295]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.09-19.33.41:026][295]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22184
+[2020.02.09-19.33.45:548][295]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.02.09-19.33.45:548][295]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.09-19.33.45:548][295]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.09-19.33.45:548][295]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.09-19.33.45:548][295]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.09-19.33.45:548][295]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.09-19.33.45:658][295]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.09-19.33.45:658][295]MapCheck: New page: LVL1 - Feb 9, 2020, 9:33:45 AM
+[2020.02.09-19.33.45:658][295]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.09-19.33.45:659][295]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.801ms to complete.
+[2020.02.09-19.33.45:682][295]LogEditorBuildUtils: Build time 0:05
+[2020.02.09-19.33.55:389][744]Job is a success!
+[2020.02.09-19.33.55:464][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.33.55:639][745]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.145s
+[2020.02.09-19.33.55:639][745]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.02.09-19.33.55:639][745]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 4.5Mb (trimmed 2.0Mb due to 0.010000 MinBrickError)
+[2020.02.09-19.33.55:639][745]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.09-19.33.55:639][745]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2020.02.09-19.33.55:639][745]LogVolumetricLightmapImport:          1: 8.0% covering 13.7% of volume
+[2020.02.09-19.33.55:639][745]LogVolumetricLightmapImport:          2: 91.1% covering 2.4% of volume
+[2020.02.09-19.33.56:676][745]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.02.09-19.33.56:676][745]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.02.09-19.33.56:676][745]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.02.09-19.33.56:676][745]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.02.09-19.33.56:677][745]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.02.09-19.33.56:677][745]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.02.09-19.33.56:677][745]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2020.02.09-19.33.56:677][745]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2020.02.09-19.33.56:677][745]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2020.02.09-19.33.56:677][745]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2020.02.09-19.33.56:877][745]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 32X32)
+[2020.02.09-19.33.56:877][745]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 64X32)
+[2020.02.09-19.33.57:004][745]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2020.02.09-19.33.57:004][745]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.02.09-19.33.57:027][745]Lightmass on DESKTOP-9M2PM6O: 10.7 sec total, 156 ms importing, 20 ms setup, 1.19 sec photons, 9.28 sec processing, 0 ms extra exporting [156/156 mappings]. Threads: 1:41 min total, 30.2 sec processing.
+[2020.02.09-19.33.57:110][745]LogStaticLightingSystem: Illumination: 16.0 sec (680 ms encoding lightmaps, 323 ms encoding shadowmaps)
+[2020.02.09-19.33.57:110][745]LogStaticLightingSystem: Lightmap texture memory:  6.5 MB (0.0 MB streaming, 6.5 MB non-streaming), 10 textures
+[2020.02.09-19.33.57:110][745]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (0.0 MB streaming, 2.7 MB non-streaming), 4 textures
+[2020.02.09-19.33.57:564][745]DumpUnbuiltLightIteractions
+[2020.02.09-19.33.57:564][745]Lights with unbuilt interactions: 0
+[2020.02.09-19.33.57:564][745]
+[2020.02.09-19.33.57:564][745]Primitives with unbuilt interactions: 0
+[2020.02.09-19.33.57:589][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.33.57:631][746]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.09-19.33.57:631][746]MapCheck: New page: LVL1 - Feb 9, 2020, 9:33:57 AM
+[2020.02.09-19.33.57:632][746]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.941ms to complete.
+[2020.02.09-19.34.04:399][149]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.09-19.34.16:875][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.34.47:558][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.34.54:004][101]MapCheck: New page: Map Check
+[2020.02.09-19.34.54:023][101]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.09-19.34.54:024][101]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.09-19.34.54:132][101]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.02.09-19.34.54:141][101]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.09-19.34.54:142][101]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.02.09-19.34.54:150][101]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.09-19.34.54:150][101]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GrayBlock, compiling. 
+[2020.02.09-19.34.54:615][101]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.09-19.34.54:615][101]TextureStreamingBuild: Display: Compiling optional shaders took 0.486 seconds.
+[2020.02.09-19.34.54:617][101]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2020.02.09-19.34.54:633][101]TextureStreamingBuild: Display: Build Texture Streaming took 0.015 seconds.
+[2020.02.09-19.34.54:665][101]LightingResults: New page: Lighting Build - Feb 9, 2020, 9:34:54 AM
+[2020.02.09-19.34.54:674][101]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.09-19.34.54:677][101]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.09-19.34.54:677][101]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.09-19.34.54:678][101]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.09-19.34.54:678][101]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22184
+[2020.02.09-19.34.59:190][101]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.02.09-19.34.59:190][101]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.09-19.34.59:190][101]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.09-19.34.59:190][101]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.09-19.34.59:190][101]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.09-19.34.59:190][101]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.09-19.34.59:297][101]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.09-19.34.59:297][101]MapCheck: New page: LVL1 - Feb 9, 2020, 9:34:59 AM
+[2020.02.09-19.34.59:297][101]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.769ms to complete.
+[2020.02.09-19.34.59:320][101]LogEditorBuildUtils: Build time 0:05
+[2020.02.09-19.35.09:350][538]Job is a success!
+[2020.02.09-19.35.09:389][539]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.35.09:567][539]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.144s
+[2020.02.09-19.35.09:567][539]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.02.09-19.35.09:567][539]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 4.5Mb (trimmed 2.0Mb due to 0.010000 MinBrickError)
+[2020.02.09-19.35.09:567][539]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.09-19.35.09:567][539]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2020.02.09-19.35.09:567][539]LogVolumetricLightmapImport:          1: 8.0% covering 13.7% of volume
+[2020.02.09-19.35.09:567][539]LogVolumetricLightmapImport:          2: 91.1% covering 2.4% of volume
+[2020.02.09-19.35.10:611][539]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.02.09-19.35.10:612][539]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.02.09-19.35.10:612][539]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.02.09-19.35.10:612][539]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.02.09-19.35.10:612][539]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.02.09-19.35.10:612][539]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.02.09-19.35.10:612][539]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2020.02.09-19.35.10:612][539]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2020.02.09-19.35.10:612][539]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2020.02.09-19.35.10:612][539]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2020.02.09-19.35.10:811][539]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 32X32)
+[2020.02.09-19.35.10:811][539]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 64X32)
+[2020.02.09-19.35.10:957][539]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X1024)
+[2020.02.09-19.35.10:957][539]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X1024)
+[2020.02.09-19.35.10:977][539]Lightmass on DESKTOP-9M2PM6O: 11.1 sec total, 144 ms importing, 22 ms setup, 1.16 sec photons, 9.73 sec processing, 0 ms extra exporting [156/156 mappings]. Threads: 1:46 min total, 32.4 sec processing.
+[2020.02.09-19.35.11:058][539]LogStaticLightingSystem: Illumination: 16.3 sec (689 ms encoding lightmaps, 341 ms encoding shadowmaps)
+[2020.02.09-19.35.11:058][539]LogStaticLightingSystem: Lightmap texture memory:  6.5 MB (0.0 MB streaming, 6.5 MB non-streaming), 10 textures
+[2020.02.09-19.35.11:058][539]LogStaticLightingSystem: Shadowmap texture memory: 6.7 MB (0.0 MB streaming, 6.7 MB non-streaming), 4 textures
+[2020.02.09-19.35.11:206][539]DumpUnbuiltLightIteractions
+[2020.02.09-19.35.11:206][539]Lights with unbuilt interactions: 0
+[2020.02.09-19.35.11:206][539]
+[2020.02.09-19.35.11:206][539]Primitives with unbuilt interactions: 0
+[2020.02.09-19.35.11:214][539]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.35.11:251][540]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.09-19.35.11:251][540]MapCheck: New page: LVL1 - Feb 9, 2020, 9:35:11 AM
+[2020.02.09-19.35.11:252][540]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.189ms to complete.
+[2020.02.09-19.35.13:173][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.35.13:306][661]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-19.35.13:323][661]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.35.13:323][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-19.35.13:323][661]PIE: New page: PIE session: LVL1 (Feb 9, 2020, 9:35:13 AM)
+[2020.02.09-19.35.13:323][661]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_LVL1
+[2020.02.09-19.35.13:346][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022653s)
+[2020.02.09-19.35.13:347][661]LogAIModule: Creating AISystem for world LVL1
+[2020.02.09-19.35.13:347][661]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2020.02.09-19.35.13:347][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/LVL1.LVL1 to /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 (0.023710s)
+[2020.02.09-19.35.13:406][661]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-19.35.13:418][661]LogInit: FAudioDevice initialized.
+[2020.02.09-19.35.13:449][661]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.09-19.35.13:452][661]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2020.02.09-14.35.13
+[2020.02.09-19.35.13:452][661]LogWorld: Bringing up level for play took: 0.002217
+[2020.02.09-19.35.13:466][661]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_LVL1 -0.263
+[2020.02.09-19.35.13:466][661]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.35.45:531][583]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.35.45:532][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.35.45:569][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-19.35.45:569][583]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.35.45:595][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.35.45:656][585]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.02.09-19.35.50:151][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.09-19.36.05:562][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.36.36:264][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.36.46:033][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.36.46:149][191]MapCheck: New page: Map Check
+[2020.02.09-19.36.46:166][191]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.09-19.36.46:167][191]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.09-19.36.46:273][191]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.02.09-19.36.46:282][191]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.02.09-19.36.46:291][191]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.09-19.36.46:291][191]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GrayBlock, compiling. 
+[2020.02.09-19.36.46:734][191]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.09-19.36.46:734][191]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.09-19.36.46:734][191]TextureStreamingBuild: Display: Compiling optional shaders took 0.465 seconds.
+[2020.02.09-19.36.46:737][191]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2020.02.09-19.36.46:753][191]TextureStreamingBuild: Display: Build Texture Streaming took 0.015 seconds.
+[2020.02.09-19.36.46:786][191]LightingResults: New page: Lighting Build - Feb 9, 2020, 9:36:46 AM
+[2020.02.09-19.36.46:795][191]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.09-19.36.46:798][191]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.09-19.36.46:798][191]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.09-19.36.46:799][191]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.09-19.36.46:799][191]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22184
+[2020.02.09-19.36.51:308][191]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.02.09-19.36.51:308][191]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.09-19.36.51:308][191]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.09-19.36.51:308][191]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.09-19.36.51:308][191]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.09-19.36.51:308][191]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.09-19.36.51:416][191]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.02.09-19.36.51:416][191]MapCheck: New page: LVL1 - Feb 9, 2020, 9:36:51 AM
+[2020.02.09-19.36.51:416][191]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.02.09-19.36.51:417][191]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.857ms to complete.
+[2020.02.09-19.36.51:439][191]LogEditorBuildUtils: Build time 0:05
+[2020.02.09-19.37.02:862][682]Job is a success!
+[2020.02.09-19.37.03:118][683]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.158s
+[2020.02.09-19.37.03:118][683]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.02.09-19.37.03:118][683]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 4.5Mb (trimmed 2.1Mb due to 0.010000 MinBrickError)
+[2020.02.09-19.37.03:119][683]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.09-19.37.03:119][683]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2020.02.09-19.37.03:119][683]LogVolumetricLightmapImport:          1: 8.1% covering 13.7% of volume
+[2020.02.09-19.37.03:119][683]LogVolumetricLightmapImport:          2: 90.9% covering 2.4% of volume
+[2020.02.09-19.37.04:164][683]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.02.09-19.37.04:164][683]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.02.09-19.37.04:164][683]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.02.09-19.37.04:164][683]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.02.09-19.37.04:164][683]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.02.09-19.37.04:164][683]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.02.09-19.37.04:164][683]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2020.02.09-19.37.04:164][683]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2020.02.09-19.37.04:164][683]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2020.02.09-19.37.04:164][683]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2020.02.09-19.37.04:364][683]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 32X32)
+[2020.02.09-19.37.04:364][683]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 64X32)
+[2020.02.09-19.37.04:514][683]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 1024X1024)
+[2020.02.09-19.37.04:515][683]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X1024)
+[2020.02.09-19.37.04:538][683]Lightmass on DESKTOP-9M2PM6O: 12.5 sec total, 182 ms importing, 23 ms setup, 1.86 sec photons, 10.4 sec processing, 0 ms extra exporting [156/156 mappings]. Threads: 1:53 min total, 44.7 sec processing.
+[2020.02.09-19.37.04:627][683]LogStaticLightingSystem: Illumination: 17.8 sec (684 ms encoding lightmaps, 345 ms encoding shadowmaps)
+[2020.02.09-19.37.04:628][683]LogStaticLightingSystem: Lightmap texture memory:  6.5 MB (0.0 MB streaming, 6.5 MB non-streaming), 10 textures
+[2020.02.09-19.37.04:628][683]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (0.0 MB streaming, 10.7 MB non-streaming), 4 textures
+[2020.02.09-19.37.05:324][683]DumpUnbuiltLightIteractions
+[2020.02.09-19.37.05:324][683]Lights with unbuilt interactions: 0
+[2020.02.09-19.37.05:324][683]
+[2020.02.09-19.37.05:324][683]Primitives with unbuilt interactions: 0
+[2020.02.09-19.37.05:367][684]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.09-19.37.05:367][684]MapCheck: New page: LVL1 - Feb 9, 2020, 9:37:05 AM
+[2020.02.09-19.37.05:368][684]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.861ms to complete.
+[2020.02.09-19.37.09:044][904]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.09-19.37.20:466][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.37.20:563][588]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.09-19.37.20:581][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.37.20:581][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.09-19.37.20:581][588]PIE: New page: PIE session: LVL1 (Feb 9, 2020, 9:37:20 AM)
+[2020.02.09-19.37.20:582][588]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_LVL1
+[2020.02.09-19.37.20:599][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017186s)
+[2020.02.09-19.37.20:599][588]LogAIModule: Creating AISystem for world LVL1
+[2020.02.09-19.37.20:599][588]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2020.02.09-19.37.20:599][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/LVL1.LVL1 to /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 (0.017842s)
+[2020.02.09-19.37.20:649][588]LogInit: XAudio2 using 'Headphones (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.09-19.37.20:660][588]LogInit: FAudioDevice initialized.
+[2020.02.09-19.37.20:698][588]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.09-19.37.20:703][588]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_LVL1.LVL1 up for play (max tick rate 60) at 2020.02.09-14.37.20
+[2020.02.09-19.37.20:703][588]LogWorld: Bringing up level for play took: 0.002837
+[2020.02.09-19.37.20:717][588]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_LVL1 0.987
+[2020.02.09-19.37.20:717][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.38.03:633][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.38.03:634][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.38.03:673][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.09-19.38.03:673][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1' with GeneratedClass '/Game/Maps/Levels/LVL1.LVL1_C' with ClassGeneratedBy '/Game/Maps/Levels/LVL1.LVL1:PersistentLevel.LVL1'
+[2020.02.09-19.38.03:700][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.09-19.38.03:752][164]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.02.09-19.38.20:727][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.09-19.38.21:133][191]LogSavePackage: Moving '../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Saved/LVL10E600E3F4147EEFDBC4787A9B38B194B.tmp' to '../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Content/Maps/Levels/LVL1.umap'
+[2020.02.09-19.38.21:161][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/LVL1_BuiltData" FILE="../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Content/Maps/Levels/LVL1_BuiltData.uasset" SILENT=true
+[2020.02.09-19.38.21:340][191]LogSavePackage: Moving '../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Saved/LVL1_BuiltDataCB3178E44A8DD7D63D5C2EA5932AA292.tmp' to '../../../../../../Users/Jarick/Documents/GitHub/AssetManagement/ChronoCo_B4S/Content/Maps/Levels/LVL1_BuiltData.uasset'
