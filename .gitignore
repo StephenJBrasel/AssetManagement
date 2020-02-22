@@ -51,6 +51,7 @@ Plugins/*/Binaries/*
 
 # Builds
 Build/*
+Builds/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
@@ -75,3 +76,4 @@ ChronoCo_B4S/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+ChronoCo_B4S/Builds/*
